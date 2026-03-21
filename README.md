@@ -1,20 +1,31 @@
-- 👋 Hi, I’m @PoundXI
-- 👀 I’m interested in Web/Mobile Development,Web/Mobile Hacking.
-- 🌱 I’m currently learning Web/Mobile Development & Bug Bounty Hunting.
-  - [3 medium-severity bug bounty reports: accepted by Red Bull on Intigriti](https://app.intigriti.com/profile/poundxi)
-  - [1 high-severity bug bounty report: accepted by Nestlé on intigriti](https://app.intigriti.com/profile/poundxi)
-- 💞️ I’m looking to collaborate on something interesting.
-- 📫 How to reach me
-  - https://twitter.com/PoundXI
- 
-<!---
-PoundXI/PoundXI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm @PoundXI
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PoundXI" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PoundXI&layout=compact&langs_count=8&card_width=320" />
-</a>
+### **Securing the web through code and researching high-impact security vulnerabilities.**
+
+I am a professional developer with a deep interest in security. While my primary focus is building robust systems, I occasionally perform security research and hunt for vulnerabilities on the **Intigriti** platform.
+
+---
+
+### 🛡️ Security Research Highlights
+I focus on high-impact findings rather than volume. My research is primarily centered on **Web Security**.
+
+- 🥇 **1 High Severity** — Accepted by **Nestlé**
+- 🥈 **3 Medium Severity** — Accepted by **Red Bull**
+
+[**View my Intigriti Profile**](https://app.intigriti.com/profile/poundxi)
+
+---
+
+### 💻 Tech Stack & Environment
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| **Tools** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+| **OS** | **Ubuntu** (CLI-heavy workflow) |
+
+---
+
+### 📫 Connect with me
+- 🌐 [poundxi.com](https://poundxi.com)
+- 🐦 [Twitter @PoundXI](https://twitter.com/PoundXI)
